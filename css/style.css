@@ -1,0 +1,58 @@
+body{
+	text-align: center;
+}
+
+.content {
+	display: grid;
+	grid-gap: 10px;
+	background-color: none;
+	padding: 10px;
+	margin-bottom: 30px;
+}
+
+.content > header,
+.content > article,
+.content > footer {
+	background-color: white;
+	text-align: center;
+	padding: 10px 0;
+	font-size: 20px;
+	/* 3 Per deel font sizes */
+	/* 3 Fall back fonts */
+	/* 7 colors in hexadecimal */
+}
+
+video{
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	min-width: 100%; 
+	min-height: 100%;
+	z-index: -1;
+}
+
+.img{
+	float:  left;
+    width:  600px;
+    height: 300px;
+}
+
+.logo{
+	width:  200px;
+    height: 200px;
+}
+
+ul{
+	list-style-type: none;
+}
+
+#cookiestatement{
+	z-index: 1;
+	display: grid;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	background-color: white;
+	text-align: center;
+	font-size: 20px;
+}
