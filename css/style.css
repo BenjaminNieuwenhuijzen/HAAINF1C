@@ -1,0 +1,97 @@
+/*		
+		Door Benjamin Nieuwenhuijzen
+		Versie 1.5
+		Laatst geupdate 20/01/2020
+*/
+
+body{
+	text-align: center;
+}
+
+#topheader {
+	background-color: #FFFFFF;
+	color: #707070;
+	text-align: center;
+	padding: 10px 0;
+	font-size: 15px;
+	font-family: Courier New, serif;
+}
+
+.content {
+	display: grid;
+	padding: 10px;
+	margin-bottom: 30px;
+}
+
+.content > header {
+	background-color: #AAAAAA;
+	color: #000000;
+	text-align: center;
+	padding: 10px 0;
+	font-size: 35px;
+	font-family: Times New Roman, Times;
+}
+
+.content > article,
+aside,
+nav{
+	background-color: #F5F5F5;
+	color: #444444;
+	text-align: center;
+	padding: 10px 0;
+	font-size: 25px;
+	font-family: Arial, sans-serif;
+}
+
+.content > footer{
+	background-color: #FFFFFF;
+	color: #707070;
+	text-align: center;
+	padding: 10px 0;
+	font-size: 15px;
+	font-family: Courier New, serif;
+}
+
+#bottomfooter{
+	background-color: #FFFFFF;
+	color: #707070;
+	text-align: center;
+	padding: 10px 0;
+	font-size: 15px;
+	font-family: Courier New, serif;
+}
+
+video{
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	min-width: 100%; 
+	min-height: 100%;
+	z-index: -1;
+}
+
+.img{
+	float:  left;
+    width:  600px;
+    height: 300px;
+}
+
+.logo{
+	width:  200px;
+    height: 200px;
+}
+
+ul{
+	list-style-type: none;
+}
+
+#cookiestatement{
+	z-index: 1;
+	display: grid;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	background-color: #2699FB;
+	text-align: center;
+	font-size: 20px;
+}
