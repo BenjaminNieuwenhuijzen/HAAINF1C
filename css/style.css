@@ -14,7 +14,7 @@ body{
 	text-align: center;
 	padding: 10px 0;
 	font-size: 15px;
-	font-family: Courier New, serif;
+	font-family: Arial, Helvetica, Verdana, sans-serif;
 }
 
 .content {
@@ -29,7 +29,7 @@ body{
 	text-align: center;
 	padding: 10px 0;
 	font-size: 35px;
-	font-family: Times New Roman, Times;
+	font-family: Arial, Helvetica, Verdana, sans-serif;
 }
 
 .content > article,
@@ -40,7 +40,7 @@ nav{
 	text-align: center;
 	padding: 10px 0;
 	font-size: 25px;
-	font-family: Arial, sans-serif;
+	font-family: Arial, Helvetica, Verdana, sans-serif;
 }
 
 .content > footer{
@@ -49,7 +49,7 @@ nav{
 	text-align: center;
 	padding: 10px 0;
 	font-size: 15px;
-	font-family: Courier New, serif;
+	font-family: Arial, Helvetica, Verdana, sans-serif;
 }
 
 #bottomfooter{
@@ -58,7 +58,7 @@ nav{
 	text-align: center;
 	padding: 10px 0;
 	font-size: 15px;
-	font-family: Courier New, serif;
+	font-family: Arial, Helvetica, Verdana, sans-serif;
 }
 
 video{
