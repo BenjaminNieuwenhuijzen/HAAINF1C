@@ -1,0 +1,4 @@
+Naam: Benjamin Nieuwenhuijzen
+Studentennummer: 631863
+Studentklas: HAAINF1C
+GithubURL: https://github.com/BenjaminNieuwenhuijzen/HAAINF1C
